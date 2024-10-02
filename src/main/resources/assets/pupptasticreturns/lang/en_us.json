@@ -1,0 +1,17 @@
+{
+  "item.pupptasticreturns.siren_heart": "Siren Heart",
+  "item.pupptasticreturns.raw_rose_quartz": "Raw Rose Quartz",
+  "item.pupptasticreturns.rose_quartz": "Rose Quartz",
+  "item.pupptasticreturns.rose_quartz_totem": "Rose Quartz Totem",
+
+
+
+  "block.pupptasticreturns.rose_quartz_block": "Block of Rose Quartz",
+  "block.pupptasticreturns.rose_quartz_ore": "Rose Quartz Ore",
+  "block.pupptasticreturns.deepslate_rose_quartz_ore": "Deepslate Rose Quartz Ore",
+  "block.pupptasticreturns.netherrack_rose_quartz_ore": "Netherrack Rose Quartz Ore",
+
+
+  "itemgroup.pupptasticreturns.pupptastic_returns_items": "Pupptastic Returns Items",
+  "itemgroup.pupptasticreturns.pupptastic_returns_blocks": "Pupptastic Returns Blocks"
+}
