@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "pupptasticreturns:rose_quartz_block",
+    "pupptasticreturns:rose_quartz_ore",
+    "pupptasticreturns:deepslate_rose_quartz_ore",
+    "pupptasticreturns:netherrack_rose_quartz_ore"
+  ]
+}

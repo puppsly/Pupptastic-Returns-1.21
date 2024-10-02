@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "pupptasticreturns:rose_quartz_ore"
+  },
+  "result": {
+    "id": "pupptasticreturns:rose_quartz"
+  }
+}
